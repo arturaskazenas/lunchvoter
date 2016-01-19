@@ -1,4 +1,4 @@
-# The implementation of the test task with a JSON API using Hibernate/Spring/SpringMVC.
+# The implementation of the test task with a JSON API using Hibernate/Spring.
 
 
 ## How to run with Maven
